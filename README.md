@@ -1,2 +1,3 @@
 # REST Countries and Weather Fetch API
-This task is to append the all dynamic element to html using bootstrap cards and API rest countries & open weather 
+ * It display all countries with there region, country code , Country images and current weather
+ * Just open the website its all displayed all countries
